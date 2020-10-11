@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "eslint.nodePath": "./node_modules/eslint",
+  "eslint.packageManager": "yarn",
+  "typescript.validate.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "python.pythonPath": "/Users/asanobm/.local/share/virtualenvs/react-ts-with-flask-3ouP3TX7/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true
+}
